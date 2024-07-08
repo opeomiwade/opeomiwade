@@ -7,6 +7,7 @@
 ###
 
 <h2 align="left">About me</h2>
+<p>A computer science graduate from the University of Liverpool </p>
 
 ###
 
