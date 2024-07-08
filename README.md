@@ -7,7 +7,8 @@
 ###
 
 <h2 align="left">About me</h2>
-A computer Science graduate from The University of Liverpool
+
+#A computer Science graduate from The University of Liverpool
 <p align="left">📚 I'm currently learning Next.js, Spring</p>
 <p align="left">👨‍💻 Portfolio Website - [https://ope-omiwade.vercel.app/](https://ope-omiwade.vercel.app/)</p>
 <p align="left">Currently working on my Gaming Haven project, a gaming gear marketplace</p>
