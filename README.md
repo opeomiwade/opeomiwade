@@ -7,7 +7,6 @@
 ###
 
 <h2 align="left">About me</h2>
-<p>A computer science graduate from the University of Liverpool </p>
 
 ###
 
@@ -45,6 +44,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="swift logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
 </div>
 
 ###
