@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [https://ope-omiwade.vercel.app/](https://ope-omiwade.vercel.app/)
 
-- 📫 How to reach me **koomiwade@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
